@@ -1,0 +1,7 @@
+openai
+gradio
+chromadb
+torch
+spaces
+requests
+
